@@ -1,0 +1,2 @@
+This is our website that we developed, taking the instructions we learned from the Web Development workshop.
+We intend to turn this into a web game that is interactable through clicking and is related to a journey in space.
